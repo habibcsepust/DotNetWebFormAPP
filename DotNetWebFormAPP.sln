@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWebFormAPP", "DotNetWebFormAPP\DotNetWebFormAPP.csproj", "{0E4ABFFC-CD53-40AF-9A07-9EE5606D907B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetcoreAPI", "..\DotnetcoreAPI\DotnetcoreAPI.csproj", "{9D2231F4-E104-4026-AC61-50069107F8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4ABFFC-CD53-40AF-9A07-9EE5606D907B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4ABFFC-CD53-40AF-9A07-9EE5606D907B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4ABFFC-CD53-40AF-9A07-9EE5606D907B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4ABFFC-CD53-40AF-9A07-9EE5606D907B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2231F4-E104-4026-AC61-50069107F8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2231F4-E104-4026-AC61-50069107F8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2231F4-E104-4026-AC61-50069107F8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2231F4-E104-4026-AC61-50069107F8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF7001AB-2BBC-40A4-96E2-7D7E055101D8}
+	EndGlobalSection
+EndGlobal
